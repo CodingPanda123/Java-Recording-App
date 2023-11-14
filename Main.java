@@ -11,7 +11,7 @@ public class Main  implements Runnable {
     static ArrayList<Integer> PreviousVoices;
     static JFrame frame;
 
-    static String location = "C:\\Users\\Akhil\\IdeaProjects\\NanaBirthdayGift\\src\\";
+    static String location = "C:\\Users\\Akhil\\IdeaProjects\\Java-Recording-App\\src\\";
 
 
     public static void main(String[] args) {
